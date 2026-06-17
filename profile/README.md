@@ -1,5 +1,3 @@
-div align="center">
-
   # Walon Foundation
 
   **Software for Sierra Leone, built by Sierra Leoneans.**
@@ -9,7 +7,6 @@ div align="center">
 
   [🌐 Website](https://walonfoundation.com) · [✉️ Email](mailto:walonfoundation@gmail.com) · 📍 Freetown, Sierra Leone
 
-  </div>
 
   ---
 
