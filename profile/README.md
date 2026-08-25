@@ -10,7 +10,7 @@ A software company building products, client work, and developer tools optimized
 
 - **[Ikigai Digital](https://findingyourikigai.org)** – A mentorship platform for Freetown youth. Client project.
 - **[NexusUplift](https://nexus-uplift.vercel.app/)** – Client project.
-- **monime-package** – Official TypeScript SDK for Monime, Sierra Leone's leading payment platform.
+- **monime-package** – A TypeScript SDK for Monime, Sierra Leone's leading payment platform.
 - **backend-starter-cli** – A Go CLI that scaffolds production-ready backend projects with sensible defaults.
 - **SafeSpace Salone** – A free, anonymous PWA offering mental health counseling to young people, built to work on 3G connections.
 - **fundwave** – A mobile-money-native crowdfunding platform for Sierra Leoneans. Winner, DaVinci Hackathon.
